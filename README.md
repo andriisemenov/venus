@@ -1,5 +1,8 @@
 # venus
-This is a home for The Venus Project's requirements as a system
+
+https://www.thevenusproject.com/
+
+This is a home for The Venus Project's as a system: system requirements, prior studies and proposals, goals and plans developed collectively.
 
 Every engineering solution first needs a number of requirements to design around. Before the rocket flies, the engineering team has to build and study multitude of small solutions
 and subsystems: the engine has to output this much power, the structure should be made from this material, etc. Building and testing modules separately ensures the rocket will
