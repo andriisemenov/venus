@@ -12,4 +12,4 @@ For consumer product, for example, a feel or a need is turned into the requireme
 
 Since The Venus Project is a sulution and a design that will benefit all, we all are stakeholders. We are responsible for the design of the world we will live in. This is why this
 repository is created here, on GitHub. We can make use of many tools which are already available, such as "Issues" for discussions, branches for developing new features and requirements. 
-And since GitHub is already used in engineering, we can share code, hardware and architecture design here on GitHub, facilitating open-source development of the Venus Project.
+And since GitHub is already used in engineering, we can share code, hardware and architecture design here on GitHub, facilitating open-source development of The Venus Project.
